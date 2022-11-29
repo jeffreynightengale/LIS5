@@ -12,6 +12,6 @@
 <p></p>
 <h1 class="text-center">Here are the directions to our book store!</h1>
 <p></p>
-<div>
+<div class="text-center">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52151.29262259754!2d-97.51768094179688!3d35.220022300000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87b26934d80dd8c1%3A0xd7fb010a5a64833a!2sGreen%20Feather%20Book%20Company!5e0!3m2!1sen!2sus!4v1669746665024!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
