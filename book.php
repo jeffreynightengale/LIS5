@@ -7,7 +7,7 @@
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card">
-      <img src="https://m.media-amazon.com/images/I/51mFoFmu0EL._AC_SY780_.jpg" class="card-img-top">
+      <img src="https://m.media-amazon.com/images/I/51mFoFmu0EL._AC_SY780_.jpg" class="card-img-top" height: 100%>
       <div class="card-body">
         <h5 class="card-title">Harry Potter: Chamber of Secrets</h5>
         <p class="card-text">Genre: Fiction</p>
@@ -17,7 +17,7 @@
   </div>
   <div class="col">
     <div class="card">
-      <img src="http://prodimage.images-bn.com/pimages/9780439358071_p0_v4_s1200x630.jpg" class="card-img-top">
+      <img src="http://prodimage.images-bn.com/pimages/9780439358071_p0_v4_s1200x630.jpg" class="card-img-top" height: 100%>
                 <div class="card-body">
         <h5 class="card-title">Harry Potter: Order of the Phoenix</h5>
         <p class="card-text">Genre: Fiction</p>
@@ -27,7 +27,7 @@
   </div>
  <div class="col">
     <div class="card">
-      <img src="https://m.media-amazon.com/images/I/41H8wZvk8VL._AC_SY780_.jpg" class="card-img-top">
+      <img src="https://m.media-amazon.com/images/I/41H8wZvk8VL._AC_SY780_.jpg" class="card-img-top" height: 100%>
       <div class="card-body">
         <h5 class="card-title">The Camel Club</h5>
         <p class="card-text">Genre: Fiction</p>
@@ -37,7 +37,7 @@
   </div>
 <div class="col">
     <div class="card">
-      <img src="https://www.davidbaldacci.com/wp-content/uploads/2019/08/9780446536141.jpg?fit=492%2C750" class="card-img-top">
+      <img src="https://www.davidbaldacci.com/wp-content/uploads/2019/08/9780446536141.jpg?fit=492%2C750" class="card-img-top" height: 100%>
       <div class="card-body">
         <h5 class="card-title">The Whole Truth</h5>
         <p class="card-text">Genre: Fiction</p>
@@ -47,7 +47,7 @@
   </div>
   <div class="col">
     <div class="card">
-      <img src="https://www.davidbaldacci.com/wp-content/uploads/2021/03/9781538719671.jpg?fit=1722%2C2600" class="card-img-top">
+      <img src="https://www.davidbaldacci.com/wp-content/uploads/2021/03/9781538719671.jpg?fit=1722%2C2600" class="card-img-top" height: 100%>
       <div class="card-body">
         <h5 class="card-title">A Gambling Man</h5>
         <p class="card-text">Genre: Fiction</p>
@@ -57,7 +57,7 @@
   </div>
  <div class="col">
     <div class="card">
-      <img src="https://m.media-amazon.com/images/I/51vqxnvp1iL._AC_SY350_QL15_.jpg" class="card-img-top">
+      <img src="https://m.media-amazon.com/images/I/51vqxnvp1iL._AC_SY350_QL15_.jpg" class="card-img-top" height: 100%>
       <div class="card-body">
         <h5 class="card-title">The Drop</h5>
         <p class="card-text">Genre: Fiction</p>
