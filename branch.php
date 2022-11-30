@@ -106,7 +106,7 @@
 <table class="table table-hover">
   <thead>
     <tr>
-      <th scope="col">Big Ups! Books</th>
+      <th scope="col">Chris & James</th>
       <th scope="col">Book Name</th>
       <th scope="col"></th>
       <th scope="col">Book Count</th>
