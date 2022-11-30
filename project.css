@@ -1,5 +1,40 @@
 $card-height: 100%
-
+td {
+  border: 1px solid black;
+}
 table {
-  table-layout: fixed;
+  margin: 15px 0;
+  border: 1px solid black;
+}
+html {
+  background: #ccc;
+}
+body {
+  max-width: 400px;
+  margin: 0 auto;
+  background: white;
+  padding: 10px;
+}
+
+.respect td {
+  width: 50%;
+}
+
+.thousand td {
+  width: 1000px;
+}
+
+.image td {
+  overflow: hidden;
+}
+
+.whitespace td {
+  white-space: nowrap;
+}
+
+.calc td:nth-child(1) {
+  width: 2000px;
+}
+.calc td:nth-child(2) {
+  width: 1000px;
 }
