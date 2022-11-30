@@ -8,7 +8,7 @@
   <thead>
     <tr>
       <th scope="col">Barnes & Noble</th>
-      <th scope="col"></th>
+      <th scope="col">Book Name</th>
       <th scope="col"></th>
       <th scope="col">Book Count</th>
     </tr>
@@ -57,7 +57,7 @@
   <thead>
     <tr>
       <th scope="col">Half Price Books</th>
-      <th scope="col"></th>
+      <th scope="col">Book Name</th>
       <th scope="col"></th>
       <th scope="col">Book Count</th>
     </tr>
@@ -107,7 +107,7 @@
   <thead>
     <tr>
       <th scope="col">Big Ups</th>
-      <th scope="col"></th>
+      <th scope="col">Book Name</th>
       <th scope="col"></th>
       <th scope="col">Book Count</th>
     </tr>
@@ -157,7 +157,7 @@
   <thead>
     <tr>
       <th scope="col">Ruth's Christian</th>
-      <th scope="col"></th>
+      <th scope="col">Book Name</th>
       <th scope="col"></th>
       <th scope="col">Book Count</th>
     </tr>
