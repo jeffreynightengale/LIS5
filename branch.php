@@ -4,7 +4,7 @@
   </div>
 <h1 class="text-center">Branch Information</h1>
 
-<table class="table table-hover" width: 100%>
+<table class="table table-hover">
   <thead>
     <tr>
       <th scope="col">Barnes & Noble</th>
@@ -103,7 +103,7 @@
 </table>
 
 <h1></h1>
-<table class="table table-hover" width: 100%>
+<table class="table table-hover">
   <thead>
     <tr>
       <th scope="col">Big Ups</th>
