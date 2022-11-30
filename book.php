@@ -15,8 +15,8 @@
       </div>
     </div>
   </div>
-  <div class="col h-100">
-    <div class="card">
+  <div class="col">
+    <div class="card h-100">
       <img src="http://prodimage.images-bn.com/pimages/9780439358071_p0_v4_s1200x630.jpg" class="card-img-top">
                 <div class="card-body">
         <h5 class="card-title">Harry Potter: Order of the Phoenix</h5>
