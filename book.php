@@ -36,7 +36,7 @@
     </div>
   </div>
 <div class="col">
-    <div class="card h-100">
+    <div class="card">
       <img src="https://www.davidbaldacci.com/wp-content/uploads/2019/08/9780446536141.jpg?fit=492%2C750" style="height: 30vw;" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">The Whole Truth</h5>
